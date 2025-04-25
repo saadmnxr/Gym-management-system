@@ -26,10 +26,6 @@ Gym memberships are stored using a vector, allowing for dynamic management and s
 ## Contributing
 
 Contributions to enhance the program's functionality or improve code quality are welcome. Fork the repository, make your changes, and submit a pull request.
-
-## Author
-
-Dhanush Anbalagan
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
